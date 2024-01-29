@@ -17,7 +17,9 @@ Graphs: Bar graphs comparing TOPSIS scores and individual metrics (BLEU, ROUGE-1
 
 2.*Run the evaluation script:*
 
-```python evaluate_models.py```
+```bash
+  python evaluate_models.py
+```
 
 This script evaluates language models, performs TOPSIS analysis, and generates comparison graphs.
 
