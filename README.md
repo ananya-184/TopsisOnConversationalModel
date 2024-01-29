@@ -36,7 +36,7 @@ Bar graphs comparing TOPSIS scores and individual metrics are saved as PNG files
 -*topsis_BarGraph*: Bar graph visualizing TOPSIS scores.<br />
 ![TOPSIS Bar Graph](topsis_BarGraph.png)<br />
 
--*ROUGE-1_comparison</br>, ROUGE-2_comparison</br>, ROUGE-L_comparison Response Length_comparison*</br>: Bar graphs comparing individual metrics.
+-*ROUGE-1_comparison,</br> ROUGE-2_comparison,</br> ROUGE-L_comparison Response Length_comparison*,</br>Response Length<br/>These are the graphs comparing individual metrics.
 ![ROUGE-1](ROUGE-1_comparison.png)
 ![ROUGE-2](ROUGE-2_comparison.png)
 ![ROUGE-L](ROUGE-L_comparison.png)
