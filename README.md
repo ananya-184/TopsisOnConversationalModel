@@ -33,10 +33,10 @@ Bar graphs comparing TOPSIS scores and individual metrics are saved as PNG files
 -evaluate_models.py: Main script for evaluating language models and performing analysis.
 -*results.csv*: CSV file containing detailed evaluation results.<br />
 -*topsis.csv*: CSV file containing TOPSIS analysis results.<br />
--*topsis_BarGraph.png*: Bar graph visualizing TOPSIS scores.<br />
+-*topsis_BarGraph*: Bar graph visualizing TOPSIS scores.<br />
 ![TOPSIS Bar Graph](topsis_BarGraph.png)<br />
 
--*ROUGE-1_comparison.png, ROUGE-2_comparison.png, ROUGE-L_comparison.png, Response Length_comparison.png*: Bar graphs comparing individual metrics.
+-*ROUGE-1_comparison, ROUGE-2_comparison, ROUGE-L_comparison Response Length_comparison*: Bar graphs comparing individual metrics.
 ![ROUGE-1](ROUGE-1_comparison.png)
 ![ROUGE-2](ROUGE-2_comparison.png)
 ![ROUGE-L](ROUGE-L_comparison.png)
