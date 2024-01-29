@@ -42,9 +42,13 @@ Bar graphs comparing TOPSIS scores and individual metrics are saved as PNG files
 
 
 ![ROUGE-1](ROUGE-1_comparison.png)
+
 ![ROUGE-2](ROUGE-2_comparison.png)
+
 ![ROUGE-L](ROUGE-L_comparison.png)
+
 ![Response Length](<Response Length_comparison.png>)
+
 
 
 ## Dependencies
