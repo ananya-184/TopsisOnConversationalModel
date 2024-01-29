@@ -11,7 +11,9 @@ Graphs: Bar graphs comparing TOPSIS scores and individual metrics (BLEU, ROUGE-1
 ## Usage
 1.*Install the required dependencies:*
 
-```pip install torch transformers nltk rouge-score pandas matplotlib numpy ```
+```bash
+  pip install torch transformers nltk rouge-score pandas matplotlib numpy
+```
 
 2.*Run the evaluation script:*
 
